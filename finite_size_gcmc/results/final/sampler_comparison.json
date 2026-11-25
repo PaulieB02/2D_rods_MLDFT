@@ -1,0 +1,23 @@
+{
+  "eta": {
+    "heatbath": 0.6132297367199997,
+    "heatbath_sem": 5.99506357340801e-05,
+    "local": 0.6130388940000001,
+    "local_sem": 0.000130426566081419,
+    "difference_in_combined_standard_errors": 1.3294974823987593
+  },
+  "mean_abs_s": {
+    "heatbath": 0.5320636510412304,
+    "heatbath_sem": 0.003917327535261378,
+    "local": 0.5211095136116729,
+    "local_sem": 0.008833963863479337,
+    "difference_in_combined_standard_errors": 1.1335510476810648
+  },
+  "var_abs_s": {
+    "heatbath": 0.06161395485938348,
+    "heatbath_sem": 0.0006779119840686456,
+    "local": 0.06191608666500459,
+    "local_sem": 0.0013284123576495861,
+    "difference_in_combined_standard_errors": -0.20258403984898118
+  }
+}

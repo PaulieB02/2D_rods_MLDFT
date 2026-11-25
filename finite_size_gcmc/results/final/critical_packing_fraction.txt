@@ -1,0 +1,12 @@
+# Critical packing fraction of the isotropic-nematic transition of hard rods with k = 8
+# on a periodic 100 x 100 lattice, from the finite-size GCMC analysis in finite_size_gcmc/:
+# the mean packing fraction at the maximum of Var(|S|), located by a weighted local quadratic
+# fit over -0.25 <= beta*mu <= -0.1 (15 chemical potentials), with a
+# 3000-sample bootstrap of 50000-sweep blocks.
+# Written by export_critical_packing_fraction.py from peak_bootstrap_window15_block50000.json.
+# eta_c_ci95 is the statistical 95% bootstrap interval; with the fit-window sensitivity the
+# working uncertainty is about +-0.002 (see RESULTS.md).
+eta_c = 0.6113669562436483
+eta_c_ci95 = 0.60994581191962 0.6123693154345572
+mu_c = -0.18978040138152225
+max_var_abs_S = 0.061480948305864855

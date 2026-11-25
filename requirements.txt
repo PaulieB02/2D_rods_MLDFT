@@ -1,0 +1,8 @@
+# Versions with which the published results were produced (Python 3.13). uv users can use
+# pyproject.toml / uv.lock instead (uv sync).
+matplotlib==3.11.2
+numba==0.67.0
+numpy==2.5.3
+scipy==1.18.1
+tensorboard==2.21.0
+torch==2.14.0

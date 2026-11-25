@@ -1,0 +1,67 @@
+{
+  "method": "weighted local quadratic; non-overlapping block bootstrap",
+  "fitted_mus": [
+    -0.275,
+    -0.25,
+    -0.235,
+    -0.225,
+    -0.22,
+    -0.205,
+    -0.2,
+    -0.19,
+    -0.175,
+    -0.16,
+    -0.15,
+    -0.145,
+    -0.13,
+    -0.125,
+    -0.115,
+    -0.1
+  ],
+  "block_sweeps": 50000,
+  "blocks_per_mu": [
+    80,
+    200,
+    120,
+    80,
+    120,
+    120,
+    80,
+    120,
+    200,
+    120,
+    88,
+    120,
+    120,
+    80,
+    120,
+    200
+  ],
+  "bootstrap": 3000,
+  "accepted_bootstrap": 3000,
+  "estimate": {
+    "mu": -0.18977068810245612,
+    "eta": 0.6113681804124742,
+    "variance": 0.06146917770985359
+  },
+  "standard_error": {
+    "mu": 0.003840118433445678,
+    "eta": 0.000526467637692324,
+    "variance": 0.0002782980355510237
+  },
+  "percentile_95": {
+    "mu": [
+      -0.19703351040082964,
+      -0.1816538065502287
+    ],
+    "eta": [
+      0.6102827260993691,
+      0.6124014582318945
+    ],
+    "variance": [
+      0.06092037584792203,
+      0.06200333481520352
+    ]
+  },
+  "note": "Statistical uncertainty conditional on this interpolation window. Compare window sizes for fit sensitivity."
+}

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# TensorBoard logs written during training (run_pipeline.py --stages train)
+data/*/tensorboard/
+
+# the finite-size GCMC sampler, built from rods_gcmc.cpp with make
+finite_size_gcmc/rods_gcmc
+
+# the manuscript sources (not part of the code release)
+Paper/
+
+# notes on the repository cleanup and on publishing it, not part of the release
+CLEANUP_REPORT.pdf
+PUBLISHING_GUIDE.pdf
+
+# The training profiles (about 1.25 GB in 20 000 files) are attached to the GitHub release;
+# everything else in data/ is part of the repository.
+data/*/training_data/
+training_data.tar.gz

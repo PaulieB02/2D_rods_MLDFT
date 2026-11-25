@@ -1,0 +1,33 @@
+{
+  "command": [
+    "/run/current-system/sw/bin/taskset",
+    "-c",
+    "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
+    "/home/jens/ML_DFT/2D_rods/writing_the_paper/finite_size_gcmc/rods_gcmc",
+    "--L",
+    "100",
+    "--k",
+    "8",
+    "--mu",
+    "-0.22",
+    "--burn",
+    "50000",
+    "--sweeps",
+    "1000000",
+    "--block",
+    "2000",
+    "--stride",
+    "1",
+    "--seed",
+    "322261116",
+    "--initial",
+    "empty",
+    "--sampler",
+    "heatbath",
+    "--output",
+    "/home/jens/ML_DFT/2D_rods/writing_the_paper/finite_size_gcmc/results/peak_refined/raw/mu_-0.220000_rep_00_seed_322261116.csv",
+    "--verify-every",
+    "0"
+  ],
+  "summary": "mu=-0.22 eta=0.60731585 absS=0.48907487 var=0.059791426 sign_changes=7235 seconds=129.93557"
+}

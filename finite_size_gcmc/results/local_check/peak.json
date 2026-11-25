@@ -1,0 +1,22 @@
+{
+  "grid_max": {
+    "mu": -0.175,
+    "L": 100,
+    "k": 8,
+    "eta": 0.6130388940000001,
+    "eta_sem": 0.000130426566081419,
+    "mean_abs_s": 0.5211095136116729,
+    "mean_abs_s_sem": 0.008833963863479337,
+    "var_abs_s": 0.06191608666500459,
+    "var_abs_s_sem": 0.0013284123576495861,
+    "binder": 0.4900499983515625,
+    "binder_sem": 0.008755106578248989,
+    "signed_mean": -0.04834405058269524,
+    "signed_mean_sem": 0.038771289878925405,
+    "replicas": 4,
+    "samples": 4000000,
+    "blocks": 80
+  },
+  "reblock_sweeps": 50000,
+  "note": "Finite-size peak of <S^2>-<|S|>^2. Errors: block jackknife. No thermodynamic-limit extrapolation."
+}

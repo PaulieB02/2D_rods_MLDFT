@@ -1,0 +1,6 @@
+4 chains, 2 workers, CPUs [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
+[1/4] mu=-0.175 eta=0.61293346 absS=0.51098338 var=0.064145984 sign_changes=5429 seconds=207.84139
+[2/4] mu=-0.175 eta=0.6129729 absS=0.51851608 var=0.0611076 sign_changes=5835 seconds=219.71439
+[3/4] mu=-0.175 eta=0.61343898 absS=0.54680427 var=0.060698282 sign_changes=4697 seconds=217.66438
+[4/4] mu=-0.175 eta=0.61281024 absS=0.50813432 var=0.060774641 sign_changes=5497 seconds=209.76406
+Finished in 429.5 seconds.

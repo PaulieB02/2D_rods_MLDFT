@@ -1,0 +1,23 @@
+21 chains, 20 workers, CPUs [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
+[1/21] mu=1.35 eta=0.75465293 absS=0.96863771 var=0.00088562591 sign_changes=0 seconds=1.2111525
+[2/21] mu=0.45 eta=0.68542173 absS=0.93118512 var=0.0019788728 sign_changes=0 seconds=1.399652
+[3/21] mu=1.2 eta=0.74518327 absS=0.98219139 var=0.00026951149 sign_changes=0 seconds=1.4175305
+[4/21] mu=0 eta=0.63769833 absS=0.79394401 var=0.016539768 sign_changes=0 seconds=1.5087363
+[5/21] mu=0.75 eta=0.71194493 absS=0.96758573 var=0.00064932035 sign_changes=0 seconds=1.5156452
+[6/21] mu=-1.5 eta=0.43258967 absS=0.11365291 var=0.0072685819 sign_changes=1086 seconds=1.5450478
+[7/21] mu=1.05 eta=0.73435353 absS=0.970396 var=0.00061621321 sign_changes=0 seconds=1.5372209
+[8/21] mu=0.6 eta=0.69931907 absS=0.95549749 var=0.0010132422 sign_changes=0 seconds=1.5457628
+[9/21] mu=-1.35 eta=0.4539056 absS=0.13057805 var=0.0096898792 sign_changes=885 seconds=1.561367
+[10/21] mu=0.9 eta=0.72332407 absS=0.96831096 var=0.00068953553 sign_changes=0 seconds=1.5665979
+[11/21] mu=-1.2 eta=0.4748338 absS=0.13114362 var=0.0096228389 sign_changes=855 seconds=1.5796077
+[12/21] mu=-1.05 eta=0.49598633 absS=0.1566991 var=0.015241249 sign_changes=692 seconds=1.5930331
+[13/21] mu=-0.9 eta=0.5167052 absS=0.17285638 var=0.01698396 sign_changes=502 seconds=1.6026534
+[14/21] mu=0.3 eta=0.67076593 absS=0.89361267 var=0.0074130182 sign_changes=0 seconds=1.6005387
+[15/21] mu=0.15 eta=0.65556387 absS=0.87787958 var=0.006203303 sign_changes=0 seconds=1.6868199
+[16/21] mu=-0.15 eta=0.6174334 absS=0.66259928 var=0.0258827 sign_changes=25 seconds=1.7550211
+[17/21] mu=-0.6 eta=0.55740067 absS=0.23288717 var=0.030230204 sign_changes=405 seconds=1.7894047
+[18/21] mu=-0.45 eta=0.5771766 absS=0.2972334 var=0.042876986 sign_changes=217 seconds=1.7906779
+[19/21] mu=-0.75 eta=0.53745307 absS=0.18984783 var=0.019774711 sign_changes=477 seconds=1.8086753
+[20/21] mu=-0.3 eta=0.596725 absS=0.37314263 var=0.063035907 sign_changes=256 seconds=1.8189418
+[21/21] mu=1.5 eta=0.76420753 absS=0.98362474 var=0.00029655255 sign_changes=0 seconds=1.0865257
+Finished in 2.3 seconds.
